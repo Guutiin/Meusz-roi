@@ -52,7 +52,7 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
 * **Atributos:** Destreza +4, Mente +2, Constituição +1, Força -2.
 * **Equipamento:** Adagas, Arco Curto, Kit de Ladrão.
 * **Especial (Ataque Furtivo):** Se atacar escondido ou com vantagem, causa **+2d6** de dano extra.
-
+* **Passiva Racial (Sortudo):** Se tirar "1" no dado, pode rolar de novo.
 
 ---
 
