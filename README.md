@@ -92,8 +92,8 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
 
 ### 9. O Druida (Humano)
 *Controla a natureza e vira bicho.*
-* **PV:** 22 | **DEF:** 13.
-* **Atributos:** Const +3, Destreza +2, Mente +1, Força 0.
+* **PV:** 25 | **DEF:** 13.
+* **Atributos:** Const +2, Destreza 1, Mente +2, Força +2.
 * **Equipamento:** Foice de mão.
 * **Especial (Forma Selvagem):** 2x por dia, vira um **Lobo** (Ataca e derruba) ou **Urso** (Aguenta dano).
 
