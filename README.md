@@ -80,6 +80,8 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
 * **Magias (3x Dia):**
     * *Mísseis Mágicos:* Acerta automático (3d4+3 dano).
     * *Onda Trovejante:* Empurra inimigos para longe (2d8 dano).
+* **Truques (Livres):**
+    * *Mãos Mágicas:* 
 
 ### 8. O Clérigo (Anão)
 *Médico de combate (aguenta porrada e cura).*
