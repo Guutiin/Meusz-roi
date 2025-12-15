@@ -81,7 +81,9 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
     * *Mísseis Mágicos:* Acerta automático (3d4+3 dano).
     * *Onda Trovejante:* Empurra inimigos para longe (2d8 dano).
 * **Truques (Livres):**
-    * *Mãos Mágicas:* 
+    * *Mãos Mágicas:* Uma mão espectral flutuante aparece num ponto à sua escolha. Você pode usar sua ação para controlar a mão.
+    * *Raio de Fogo:* Você arremessa um feixe de fogo em uma criatura ou objeto ao alcance. (1d8)
+    * *Ilusão Menor:* Você cria um som ou uma imagem de um objeto (não uma criatura) dentro do alcance que dura até 1 minuto.
 
 ### 8. O Clérigo (Anão)
 *Médico de combate (aguenta porrada e cura).*
