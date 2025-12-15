@@ -60,19 +60,12 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
 * **Equipamento:** Bastão ou Punhos.
 * **Especial (Rajada):** Se acertar um ataque, pode fazer um segundo ataque (chute) imediatamente.
 
-### 6. O Patrulheiro (Elfo)
-*Arqueiro e rastreador.*
-* **PV:** 24 | **DEF:** 14.
-* **Atributos:** Destreza +3, Constituição +2, Força +1, Mente 0.
-* **Equipamento:** Arco Longo, Espada Curta.
-* **Especial (Marca do Caçador):** Marca um inimigo para morrer. Causa **+1d6** de dano extra nele.
-
 ---
 
 ## ✨ CONJURADORES (Magia e Suporte)
 *Para quem quer poderes sobrenaturais. Cuidado: vocês têm menos vida!*
 
-### 7. O Mago (Alto Elfo)
+### 6. O Mago (Alto Elfo)
 *Poder explosivo, mas frágil.*
 * **PV:** 16 | **DEF:** 11 (Ou 14 com magia).
 * **Atributos:** Mente +4, Des +2, Cons 0, Força -1.
@@ -85,7 +78,7 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
     * *Raio de Fogo:* Você arremessa um feixe de fogo em uma criatura ou objeto ao alcance. (1d8)
     * *Ilusão Menor:* Você cria um som ou uma imagem de um objeto (não uma criatura) dentro do alcance que dura até 1 minuto.
 
-### 8. O Clérigo (Anão)
+### 7. O Clérigo (Anão)
 *Médico de combate (aguenta porrada e cura).*
 * **PV:** 26 | **DEF:** 16 (Escudo pesado).
 * **Atributos:** Mente +3, Força +2, Const +2, Des -1.
@@ -94,14 +87,14 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
     * *Curar Ferimentos:* Cura 1d8+3 PV (toque).
     * *Guiding Bolt:* Disparo de luz (4d6 dano).
 
-### 9. O Druida (Humano)
+### 8. O Druida (Humano)
 *Controla a natureza e vira bicho.*
 * **PV:** 25 | **DEF:** 13.
 * **Atributos:** Const +2, Destreza 1, Mente +2, Força +2.
 * **Equipamento:** Foice de mão.
 * **Especial (Forma Selvagem):** 2x por dia, vira um **Lobo** (Ataca e derruba) ou **Urso** (Aguenta dano).
 
-### 10. O Bardo (Tiefling)
+### 9. O Bardo (Tiefling)
 *Social, música e magia psíquica.*
 * **PV:** 20 | **DEF:** 13.
 * **Atributos:** Mente +4, Des +2, Constituição +1, Força -1.
