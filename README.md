@@ -43,19 +43,6 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
 
 ---
 
-## 🏹 ESPECIALISTAS E AGILIDADE
-*Para quem gosta de perícia, furtividade e ataques precisos.*
-
-### 4. O Ladino (Halfling/Pequenino)
-*Furtivo e letal pelas costas.*
-* **PV:** 20 | **DEF:** 14.
-* **Atributos:** Destreza +4, Mente +2, Constituição +1, Força -2.
-* **Equipamento:** Adagas, Arco Curto, Kit de Ladrão.
-* **Especial (Ataque Furtivo):** Se atacar escondido ou com vantagem, causa **+2d6** de dano extra.
-* **Passiva Racial (Sortudo):** Se tirar "1" no dado, pode rolar de novo.
-
----
-
 ## ✨ CONJURADORES (Magia e Suporte)
 *Para quem quer poderes sobrenaturais. Cuidado: vocês têm menos vida!*
 
